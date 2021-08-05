@@ -12,7 +12,7 @@ Problem Statement
 	Build a model to predict if a client will subscribe to  a
 	term deposit(fixed-term investment into an account).
 
-- bank.csv contains the csv file
+- bank.csv contains the csv file.
 
 - bank-names.txt contains information about the the file(it explains the 
 various attributes) and give necessary infrmation about the dataset
